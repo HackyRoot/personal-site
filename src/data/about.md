@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+Pratik Parmar I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
@@ -11,6 +11,7 @@ At Arthena, I have learned how to build teams, manage people, shape culture, dev
 
 - My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
 
+da
 - We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
 
 - In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
